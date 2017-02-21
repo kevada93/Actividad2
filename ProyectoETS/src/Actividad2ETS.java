@@ -2,7 +2,7 @@
 public class Actividad2ETS {
 
 	public static void main(String[] args) {
-		System.out.println("Crema");
+		System.out.println("Crema esto se pasa");
 
 	}
 
